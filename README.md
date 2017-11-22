@@ -23,7 +23,7 @@ A basic booking api to reserve up to four seats at a venue. A name and email is 
 
 + Create a booking:
 
-  POST to localhost:49979/api/bookings with the below JSON in the body.
+  POST to http://localhost:49979/api/bookings with the below JSON in the body.
   ```
   [
     {
